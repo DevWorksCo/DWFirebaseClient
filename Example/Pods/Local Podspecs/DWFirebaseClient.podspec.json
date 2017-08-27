@@ -1,0 +1,22 @@
+{
+  "name": "DWFirebaseClient",
+  "version": "0.1.0",
+  "summary": "A short description of DWFirebaseClient.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/josemantilla26/DWFirebaseClient",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "josemantilla26": "jose.mantilla@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/josemantilla26/DWFirebaseClient.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DWFirebaseClient/Classes/**/*"
+}

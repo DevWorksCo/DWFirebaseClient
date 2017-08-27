@@ -1,0 +1,6 @@
+framework module Pods_DWFirebaseClient_Tests {
+  umbrella header "Pods-DWFirebaseClient_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
